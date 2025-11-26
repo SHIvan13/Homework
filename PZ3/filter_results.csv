@@ -1,0 +1,4 @@
+Filename,MSE,PSNR,MAE
+img2.pgm,157.035,26.1708,5.25025
+Minecraft.pgm,6.59047,39.9416,0.885494
+test.pgm,18.8051,35.388,1.90282
